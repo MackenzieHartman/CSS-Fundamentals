@@ -1,0 +1,21 @@
+.box1 {
+	height: auto;
+	width: auto;
+	background-color: #E91E63;
+	border:10px solid lightpink;
+	margin-bottom:50px;
+	padding: 10px 0px 10px 1000px;
+}
+
+.box2 {
+	height: auto;
+	width: auto;
+	background-color: blue;
+	border: 10px solid lightblue;
+	padding: 100px;
+	color: white;
+}
+h1{
+	text-align: center;
+	margin-top: 0;
+}
